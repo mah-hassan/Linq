@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection", "Projection\Projection.csproj", "{996061A5-2088-4E38-9477-2B780F4D223A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "DataRepository\DataRepository.csproj", "{EB748DBA-273E-420C-BC0B-2F7A0BCFA5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996061A5-2088-4E38-9477-2B780F4D223A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996061A5-2088-4E38-9477-2B780F4D223A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996061A5-2088-4E38-9477-2B780F4D223A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996061A5-2088-4E38-9477-2B780F4D223A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB748DBA-273E-420C-BC0B-2F7A0BCFA5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB748DBA-273E-420C-BC0B-2F7A0BCFA5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB748DBA-273E-420C-BC0B-2F7A0BCFA5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB748DBA-273E-420C-BC0B-2F7A0BCFA5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B864CB-2EA7-4ACF-A779-1E40B00FB237}
+	EndGlobalSection
+EndGlobal
